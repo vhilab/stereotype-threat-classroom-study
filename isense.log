@@ -1,0 +1,21 @@
+[00000.014] InterSense Library ver. 4.2381 32-bit
+[00000.021] Copyright 1998-2012 InterSense, LLC
+[00000.027] http://www.intersense.com
+[00000.033] Tel: 781-541-6330
+[00000.039]
+[00000.039] Fri Apr 05 16:11:16 2013
+[00000.044]
+[00000.044] Looking for InterSense tracking device number 1. Please wait 
+[00000.050] Looking for IS-X00 device on port 1 (0.05)
+[00000.179]
+[00000.179] Looking for SDP devices (0.18)
+[00000.194] DEVWRN: Device config file not found: isradio.ini
+[00001.388] Tracker model: InertiaCube/InterTrax
+[00001.395] Configuring the system
+[00002.080] ERROR: Can't save cal data
+[00002.091]
+[00002.091]
+[00002.091] InertiaCube3 device detected
+[00002.098]
+[00002.098] Finished SDP detection (2.10)
+[03412.829] Dll Unloaded, cleaning up.
