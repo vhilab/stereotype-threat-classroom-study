@@ -1,0 +1,8 @@
+Orientation Data for Subject test_thurs1
+-------------------------------------------------
+
+Finished Loading Avatars
+-------------------------------------------------
+
+Finished Transitioning Avatars to Lecture State
+-------------------------------------------------
